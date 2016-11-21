@@ -1,0 +1,12 @@
+E:\html5_egret\JFCZ\JFCZ\bin\JFCZ.dll.config
+E:\html5_egret\JFCZ\JFCZ\bin\JFCZ.dll
+E:\html5_egret\JFCZ\JFCZ\bin\JFCZ.pdb
+E:\html5_egret\JFCZ\JFCZ\obj\Debug\JFCZ.csprojResolveAssemblyReference.cache
+E:\html5_egret\JFCZ\JFCZ\obj\Debug\JFCZ.dll
+E:\html5_egret\JFCZ\JFCZ\obj\Debug\JFCZ.pdb
+E:\1906\h5game\client\trunk\JFCZ\JFCZ\bin\JFCZ.dll.config
+E:\1906\h5game\client\trunk\JFCZ\JFCZ\bin\JFCZ.dll
+E:\1906\h5game\client\trunk\JFCZ\JFCZ\bin\JFCZ.pdb
+E:\1906\h5game\client\trunk\JFCZ\JFCZ\obj\Debug\JFCZ.csprojResolveAssemblyReference.cache
+E:\1906\h5game\client\trunk\JFCZ\JFCZ\obj\Debug\JFCZ.dll
+E:\1906\h5game\client\trunk\JFCZ\JFCZ\obj\Debug\JFCZ.pdb

@@ -1,0 +1,13 @@
+{
+	"groups":[
+	{
+		"keys":"levels",
+		"name":"preload"
+	}],
+	"resources":[
+	{
+		"name":"levels",
+		"type":"json",
+		"url":"config/levels.json"
+	}]
+}
